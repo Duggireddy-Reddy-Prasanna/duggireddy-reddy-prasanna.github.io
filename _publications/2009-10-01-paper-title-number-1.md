@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Traditional methods of water purification in rural areas"
 collection: publications
 category: Book Chapter
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: #''
 date: 2009-10-01
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+slidesurl: #'http://duggireddy.github.io/files/slides1.pdf'
+paperurl: 'http://duggireddy.github.io/files/9780443187797_WEB.pdf'
 citation: 'Reddy Prasanna Duggireddy, Reddy Prasanna Duggireddy. (2009). &quot;Traditional methods of water purification in rural areas Number 1.&quot; <i>Water Resources Management for Rural Development
 Challenges and Mitigation 1</i>. 1(1).'
 ---
