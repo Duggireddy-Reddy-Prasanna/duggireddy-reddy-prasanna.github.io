@@ -13,9 +13,9 @@ title                    : "Duggireddy's Homepage"
 title_separator          : "-"
 name                     : &name "Duggireddy Reddy Prasanna"
 description              : &description "personal description"
-url                      : "https://duggireddy.github.io"
+url                      : "https://duggireddy-reddy-prasanna.github.io/duggireddy.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "duggireddy/academicpages.github.io"
+repository               : "duggireddy.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
