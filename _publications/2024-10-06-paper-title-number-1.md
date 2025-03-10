@@ -7,7 +7,7 @@ excerpt: #''
 date: 2023-10-06
 venue: 'Journal 1'
 slidesurl: #'http://duggireddy.github.io/files/slides1.pdf'
-paperurl: 'http://duggireddy.github.io/files/9780443187797_WEB.pdf'
+paperurl: 'https://github.com/Duggireddy-Reddy-Prasanna/duggireddy.github.io/blob/master/files/9780443187797_WEB.pdf'
 citation: 'Reddy Prasanna Duggireddy, Reddy Prasanna Duggireddy. (2009). &quot;Traditional methods of water purification in rural areas Number 1.&quot; <i>Water Resources Management for Rural Development
 Challenges and Mitigation 1</i>. 1(1).'
 ---
