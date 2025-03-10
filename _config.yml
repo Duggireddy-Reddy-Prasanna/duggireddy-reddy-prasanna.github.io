@@ -22,14 +22,14 @@ repository               : "duggireddy.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "Reddy Prasanna.jpeg"
+  name             : "Reddy Prasanna Duggireddy"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Researcher"
+  location         : "Beersheba, Israel"
   employer         : "Ben Gurion University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "prasannareddy095@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
