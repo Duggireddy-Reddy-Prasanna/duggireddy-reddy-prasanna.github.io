@@ -19,7 +19,7 @@ Throughout my academic journey, I have engaged in diverse research topics includ
 - **Adsorption–desorption kinetics** of chemical solutes in porous media  
 - **Solute transport modeling** under saturated and variably saturated flow conditions
 
-I have presented my research at both national (Israel) and international platforms, including multiple appearances at the **EGU General Assembly**, and have contributed to peer-reviewed publications, including a **book chapter on traditional water purification methods**. Additional first-author manuscripts are currently in preparation or under review.
+I have presented my research at both national (Israel) and international platforms, including multiple appearances at the **European General Assembly**, and have contributed to peer-reviewed publications, including a **book chapter on traditional water purification methods**. Additional first-author manuscripts are currently in preparation or under review.
 
 In parallel to my research, I maintain a strong interest in **geopolitics**, with a particular focus on its influence on **global trade**, **sustainability transitions**, and **resource governance**. I have pursued certifications in **data analysis (Python, R)**, **machine learning**, **solute transport modeling (HYDRUS 1D/2D/3D)**, and **ESG (Environmental, Social, and Governance) frameworks**, reflecting my interdisciplinary approach to scientific inquiry.
 
