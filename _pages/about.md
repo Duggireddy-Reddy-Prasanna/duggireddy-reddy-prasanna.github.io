@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-## Hello, and welcome to my homepage!
+
 
 I am a researcher in **environmental physical chemistry**, currently in the final year of my PhD at the **Soil Chemistry Laboratory**, **Ben-Gurion University of the Negev**, under the supervision of **Dr. Gilboa Arye**. My doctoral research focuses on the **physico-chemical interactions between biosurfactants and water-repellent porous media**, employing both experimental approaches and transport modeling. The broader aim of my work is to advance the understanding of **wettability and water dynamics in peat-based horticultural substrates**, contributing to sustainable water management practices in controlled growing systems.
 
