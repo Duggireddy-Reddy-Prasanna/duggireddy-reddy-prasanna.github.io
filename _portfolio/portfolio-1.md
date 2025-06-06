@@ -18,7 +18,7 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 
 ---
 
-📎 [Click here to view the full layout as a PDF](../files/Layout.jpeg){:target="_blank"}
+📎 [Download full layout (JPEG)](/images/Layout.jpeg)
 
-🖼️ Example output layout:  
-![Vegetation Buffer Map](../images/portfolio/Layout1.png)
+🖼️ Sample output:  
+![Layout image](/images/Layout1.png)
