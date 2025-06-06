@@ -26,29 +26,23 @@ redirect_from:
 
 ---
 
-## Research Projects
+## Industrial Experience
 
-- **Surfactant Transport in Peat Media**  
-  Adsorption/desorption kinetics and modeling under saturated and variably saturated flow
+**Field Intern – Soil Health and Rural Development (MGNREGA Programme)**  
+*Undergraduate field training, Karnataka, India*  
+- Participated in the Ministry of Rural Development’s MGNREGA soil program  
+- Collected and analyzed soil samples from farming plots; prepared and distributed Soil Health Cards to farmers  
+- Engaged in farmer education and outreach, focused on soil fertility improvement and sustainable land use  
+- Conducted a regional market assessment for sericulture (silkworm production) to support rural economic planning  
 
-- **Contact Angle Hysteresis & Drop Dynamics**  
-  Influence of surfactant properties on peat wettability and hydrophobicity
-
-- **Surface Activity of Xylem Sap**  
-  Role of amphiphilic molecules in liquid–air interface tension and adsorption modeling
-
-- **Soil Hydraulic Characterization**  
-  Response of growing media to treated irrigation water: KSAT, retention, salinity effects
-
----
-
-## Work Experience
-
-- **Graduate Researcher**, Soil Chemistry Lab, BGU (2019–present)  
-  Surface chemistry, soil physics, GC-MS/IC, HYDRUS modeling, plant physiology measurements
-
-- **Intern**, Environmental Chemistry Lab, BGU (2018 Summer)  
-  Assisted in analytical procedures related to soil and water interactions
+**Freelance Business Analyst – Agriculture & Sustainability Sectors**  
+*Independent consultant for European clients (Belgium, Germany, Denmark)*  
+- Led strategic market research projects in agriculture, sustainability, and real estate  
+- Conducted primary and secondary data collection on the olive oil market in the Middle East  
+- Explored synergies between real estate development and urban farming models in Israel  
+- Developed custom research objectives and timelines in coordination with clients  
+- Delivered market reports, data visualizations, and strategic recommendations to international stakeholders  
+- Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
 ---
 
