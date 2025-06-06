@@ -1,17 +1,5 @@
----
-layout: archive
-title: "Gallery"
-permalink: /gallery/
-author_profile: true
----
+## Test Image Display
 
-Welcome to my research and fieldwork gallery! Below are selected visuals from projects, experiments, and GIS analysis.
+Here is a test image:
 
-### 🔬 Experimental Layouts (ArcGIS Pro)
-
-![Layout 1](/images/Reddy Prasanna.jpeg)  
-*Vegetation and elevation overlay using stream buffering and land cover zones.*
-
-### 🧪 Field and Lab Work
-
-More images coming soon...
+![My Image](/images/Reddy%20Prasanna.jpeg)
