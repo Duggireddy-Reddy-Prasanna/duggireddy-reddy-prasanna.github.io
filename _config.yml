@@ -34,46 +34,16 @@ author:
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=NG1NVO4AAAAJ&hl=en&inst=2200037940676332253&oi=ao"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-3141-0398"
-  semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Reddy-Prasanna?ev=hdr_xprf"
-  scopus           : # URL
 
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : ""
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
+  
   # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
+
   github           : "https://duggireddy-reddy-prasanna.github.io/duggireddy.github.io/"
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : "Reddy Prasanna Duggireddy"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -121,12 +91,6 @@ atom_feed:
   hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
-
-# SEO Related
-google_site_verification :
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
 
 
 # Social Sharing
@@ -236,6 +200,7 @@ defaults:
       comments: true
       share: true
       related: true
+
   # _pages
   - scope:
       path: ""
@@ -243,6 +208,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      custom_css: "/assets/css/custom.css"  # ✅ Include this line here
 
   # _publications
   - scope:
@@ -253,6 +219,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
+
   # _portfolio
   - scope:
       path: ""
@@ -262,6 +229,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
+
 
 
 sass:
