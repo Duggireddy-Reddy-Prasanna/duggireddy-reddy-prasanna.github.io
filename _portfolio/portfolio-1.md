@@ -19,9 +19,9 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 ---
 
 📷 **Maps Created**  
-![Main Layout Output](/images/Layout1.png)
+![Main Layout Output](/images/Layout1.png)(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/master/images/Layout1.png)
 
-📎 [Download full layout (JPEG)](/images/Layout.jpg)
+📎 [Download full layout (JPG)](/images/Layout.jpg)(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/master/images/Layout.jpg)
 
 🖼️ **Additional View**  
-![JPEG layout](/images/Layout.jpg)
+![JPEG layout](/images/Layout.jpg)(https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/raw/master/images/Layout.jpg)
