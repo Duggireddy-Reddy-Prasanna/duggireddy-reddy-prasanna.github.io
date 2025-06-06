@@ -1,10 +1,12 @@
 ---
 title: "Traditional Methods of Water Purification in Rural Areas"
-layout: publication
 collection: publications
-category: book chapter
+category: books
 date: 2023-10-06
-venue: "Water Resources Management for Rural Development"
+venue: "In: Water Resources Management for Rural Development – Challenges and Mitigation"
+authors: "Reddy Prasanna Duggireddy"
 paperurl: "https://github.com/Duggireddy-Reddy-Prasanna/duggireddy.github.io/blob/master/files/9780443187797_WEB.pdf"
-citation: "Duggireddy, R. P. (2023). Traditional Methods of Water Purification in Rural Areas. *Water Resources Management for Rural Development: Challenges and Mitigation*, 1(1)."
+layout: publication
 ---
+
+This book chapter provides an overview of indigenous water purification techniques still practiced in rural communities and examines their relevance for modern low-cost water management.
