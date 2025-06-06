@@ -32,15 +32,15 @@ redirect_from:
 - Participated in the Ministry of Rural Development’s MGNREGA soil program  
 - Collected and analyzed soil samples from farming plots; prepared and distributed Soil Health Cards to farmers  
 - Engaged in farmer education and outreach, focused on soil fertility improvement and sustainable land use  
-- Conducted a regional market assessment for sericulture (silkworm production) to support rural economic planning  
+- Performed a regional economic analysis of the sericulture sector in Karnataka to support sustainable rural development initiatives. 
 
 - **Freelance Business Analyst – Agriculture & Sustainability Sectors**  
 - *Independent consultant for European clients (Belgium, Germany, Denmark)*  
 - Led strategic market research projects in agriculture, sustainability, and real estate  
 - Conducted primary and secondary data collection on the olive oil market in the Middle East  
 - Explored synergies between real estate development and urban farming models in Israel  
-- Developed custom research objectives and timelines in coordination with clients  
-- Delivered market reports, data visualizations, and strategic recommendations to international stakeholders  
+- Independently designed project objectives and analytical frameworks in close collaboration with European stakeholders
+- Delivered data-driven reports and strategic insights for cross-sector stakeholders across agriculture and sustainability domains
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
 - **Graduate Research Assistant**  
@@ -75,17 +75,23 @@ redirect_from:
 
 ### Programming & Data Analysis
 - **Languages:** Python, R  
-- **Visualization & Stats:** JMP, ggplot2, Matplotlib, Excel  
-- **Certifications:**  
-  - Machine Learning  
-  - Python for Data Analysis  
-  - R for Biostatistics  
-  - ESG Framework for the IT Industry  
+- **Visualization & Stats:** JMP, ggplot2, Matplotlib, Excel
 
-### Geospatial, Image Processing and spatial statistics
+---
+## Certifications
+
+- ESG Framework for the IT Industry  
+- Machine Learning (Coursera / EdX)  
+- Python for Data Analysis  
+- R for Biostatistics  
+
+---
+
+### Geospatial Analysis & Spatial Statistics
 - ArcGIS Pro 
 
 ---
+
 ## Co-curricular Interests
 
 - **Science Communication:** Passionate about simplifying scientific concepts for broader audiences  
@@ -116,6 +122,7 @@ redirect_from:
 ---
 
 ---
-To request a PDF version of my résumé, please contact me via email at the address listed above.
+A downloadable PDF version of this résumé is available upon request.
+
 
 ---
