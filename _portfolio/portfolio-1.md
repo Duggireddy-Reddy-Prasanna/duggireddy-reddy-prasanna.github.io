@@ -3,7 +3,7 @@ title: "Vegetation and Elevation Analysis using Stream Buffers (ArcGIS Pro)"
 excerpt: "Vegetation classification, stream buffering, and topographic overlay analysis conducted using ArcGIS Pro tools."
 collection: portfolio
 date: 2024-05-10
-image: /images/portfolio/Layout1.png  # this is the thumbnail image shown in the portfolio grid
+image: /images/Layout1.png  # thumbnail image shown in the portfolio grid
 ---
 
 This project applied spatial analysis techniques in **ArcGIS Pro** to investigate the interaction between vegetation cover, topography, and hydrological features. Key tasks included:
@@ -18,7 +18,10 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 
 ---
 
+📷 **Maps Created**  
+![Main Layout Output](/images/Layout1.png)
+
 📎 [Download full layout (JPEG)](/images/Layout.jpeg)
 
-🖼️ Sample output:  
-![Layout image](/images/Layout1.png)
+🖼️ **Additional View**  
+![JPEG layout](/images/Layout.jpeg)
