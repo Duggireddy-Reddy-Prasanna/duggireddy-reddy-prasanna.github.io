@@ -21,7 +21,7 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 📷 **Maps Created**  
 ![Main Layout Output](/images/Layout1.png)
 
-📎 [Download full layout (JPEG)](/images/Layout.jpeg)
+📎 [Download full layout (JPEG)](/images/Layout.jpg)
 
 🖼️ **Additional View**  
-![JPEG layout](/images/Layout.jpeg)
+![JPEG layout](/images/Layout.jpg)
