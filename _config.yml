@@ -263,10 +263,19 @@ defaults:
       comment: true
 
 
-# Sass/SCSS
 sass:
   sass_dir: _sass
-  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+  style: compressed
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: single
+      author_profile: true
+      custom_css: "/assets/css/custom.css"  # ✅ ADD THIS LINE
+
 
 
 # Outputting
