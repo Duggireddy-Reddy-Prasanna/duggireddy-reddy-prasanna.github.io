@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 
-![Layout](/images/Layout1.png)
+image: {{ site.baseurl }}/images/Layout1.png
+
 
 
 
