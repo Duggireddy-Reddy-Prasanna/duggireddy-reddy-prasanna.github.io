@@ -9,4 +9,4 @@ authors: "Duggireddy, R. P., & Arye, G."
 layout: publication
 ---
 **Authors:** Duggireddy, R. P., & Arye, G.
-Presented at the EGU General Assembly 2024, this study explores the dynamic wetting behavior of biosurfactants on peat substrates, with implications for horticultural soil amendments and sustainability.
+Presented at the EGU General Assembly 2024, this study explores the dynamic wetting behavior of biosurfactants on peat substrates, with implications for ameliorating water repellency of horticultural peat based substrates.
