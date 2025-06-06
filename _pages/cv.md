@@ -77,6 +77,6 @@ redirect_from:
 ---
 
 ---
-For a pdf version of my resume, please drop an email at my above email address!
+To request a PDF version of my résumé, please contact me via email at the address listed above.
 
 ---
