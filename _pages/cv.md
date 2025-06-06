@@ -57,11 +57,26 @@ redirect_from:
 
 ---
 
-## Teaching
+## Languages
 
-<ul>{% for post in site.teaching reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+- **English:** Fluent  
+- **Telugu:** Native  
+- **Hindi:** Intermediate  
+- **Kannada:** Intermediate
 
 ---
 
+## Contact
+
+- **Designation:** Ph.D. Student  
+- **Research Group:** Dr. Gilboa Arye Research Group  
+- **Department:** Irrigation and Plant Environment  
+- **Institute:** Albert Katz International School for Desert Studies, Ben-Gurion University of the Negev, Israel  
+- **Email:** prasannareddy095@gmail.com / prasanna@post.bgu.ac.il
+
+---
+
+---
+For a pdf version of my resume, please drop an email at my above email address!
+
+---
