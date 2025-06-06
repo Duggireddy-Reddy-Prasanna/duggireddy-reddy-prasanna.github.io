@@ -1,6 +1,7 @@
 ---
 title: "Velocity-dependent contact angle hysteresis of rhamnolipid biosurfactant on peat"
 collection: publications
+category: conferences
 permalink: /publication/egu23-contact-angle/
 date: 2023-04-24
 venue: "EGU General Assembly 2023, Vienna, Austria"
