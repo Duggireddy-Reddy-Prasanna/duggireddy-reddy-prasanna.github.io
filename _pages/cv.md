@@ -43,17 +43,56 @@ redirect_from:
 - Delivered market reports, data visualizations, and strategic recommendations to international stakeholders  
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
-## Programming and Software
+**Graduate Research Assistant**  
+*Soil Chemistry Laboratory, Ben-Gurion University of the Negev, Israel*  
+- Contributed to interdisciplinary research projects focused on the effects of **different water qualities** (desalinated water, treated wastewater, and blends) on **soil hydraulic characteristics** under Mediterranean climate conditions  
+- Conducted laboratory and column experiments involving **water retention**, **infiltration**, and **solute transport** in soils  
+- Performed data processing, statistical analysis, and scientific visualization using tools such as **Python**, **R**, **SigmaPlot**, and **JMP**  
+- Collaborated with researchers on experimental design, sampling protocols, and interpretation of physico-chemical data  
+- Provided **hands-on training and workshop sessions** to new Master’s and Ph.D. students on instrumentation, lab protocols, and data visualization techniques
 
-- **Programming Languages:** Python, R  
-- **Data Visualization Tools:** Matplotlib, ggplot2, JMP, SigmaPlot  
-- **Geospatial & Image Processing:** ArcGIS Pro  
-- **Modeling & Specialized Tools:** HYDRUS (1D/2D/3D), RETC, STANMOD  
+---
+## Skills
+
+### Research & Analytical Skills
+- Experimental design, hypothesis development, data interpretation, and statistical analysis  
+- Scientific writing, figure preparation, and academic presentation skills  
+
+### Instrumentation & Analytical Chemistry
+- **Spectroscopy:** UV-Vis, AAS (Atomic Absorption Spectrophotometry), DUETTA (fluorescence and absorbance)  
+- **Chromatography & Mass Spectrometry:** GC-MS, Ion Chromatography  
+- **Carbon/Nitrogen Analysis:** TOC analyzer, total organic nitrogen analyzers  
+- **Particle & Surface Characterization:** Zetasizer, optical tensiometry (OCA/DCAT series – DataPhysics), drop shape analysis  
+
+### Soil & Plant Physiology Instrumentation
+- **Hydraulic Properties:** HYPROP, WP4C, KSAT, tension tables, RETC  
+- **Water Content & Salinity:** TDR (Time Domain Reflectometer), FDR (Frequency Domain Reflectometer)  
+- **Gas Exchange & Water Potential:** Licor 6500, stem and leaf water potentiometers  
+- **Soil Characterization:** PARIO (automated particle size), CEC, pH, EC, OM
+
+### Modeling & Simulation Tools
+- HYDRUS (1D, 2D, 3D), STANMOD, RETC, SigmaPlot  
+
+### Programming & Data Analysis
+- **Languages:** Python, R  
+- **Visualization & Stats:** JMP, ggplot2, Matplotlib, Excel  
 - **Certifications:**  
-  - ESG Framework for the IT Industry  
   - Machine Learning  
+  - Python for Data Analysis  
   - R for Biostatistics  
-  - Python for Data Analysis
+  - ESG Framework for the IT Industry  
+
+### Geospatial, Image Processing and spatial statistics
+- ArcGIS Pro 
+
+---
+## Co-curricular Interests
+
+- **Science Communication:** Passionate about simplifying scientific concepts for broader audiences  
+- **Geopolitics & Global Affairs:** Actively follows global trade, sustainability policy, and geopolitical dynamics  
+- **Sustainability & ESG:** Completed certification in ESG frameworks and interested in green technology transitions  
+- **Market Research & Business Analysis:** Experienced in freelance market analysis for agricultural and environmental sectors  
+- **Languages & Cultures:** Interested in multilingual communication and intercultural collaboration  
 
 ---
 
