@@ -1,7 +1,7 @@
 ---
 title: "Traditional methods of water purification in rural areas"
 collection: publications
-category: manuscript
+category: book chapter
 permalink: /publication/2023-10-06-paper-title-number-1/
 excerpt: #''
 date: 2023-10-06
