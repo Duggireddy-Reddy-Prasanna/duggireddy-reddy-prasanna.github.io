@@ -13,7 +13,7 @@ title                    : "Duggireddy's Homepage"
 title_separator          : "-"
 name                     : &name "Duggireddy Reddy Prasanna"
 description              : &description "personal description"
-url                      : "https://duggireddy.github.io/"
+url                      : "https://duggireddy-reddy-prasanna.github.io/duggireddy.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "duggireddy.github.io"
 
