@@ -49,10 +49,10 @@ redirect_from:
 - **Geospatial & Image Processing:** ArcGIS Pro  
 - **Modeling & Specialized Tools:** HYDRUS (1D/2D/3D), RETC, STANMOD  
 - **Certifications:**  
+  - ESG Framework for the IT Industry  
   - Machine Learning  
   - R for Biostatistics  
-  - Python for Data Analysis
-  - ESG Framework for the IT Industry  
+  - Python for Data Analysis  
 ---
 
 ## Publications
