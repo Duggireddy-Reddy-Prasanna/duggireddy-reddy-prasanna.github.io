@@ -43,7 +43,7 @@ redirect_from:
 - Delivered market reports, data visualizations, and strategic recommendations to international stakeholders  
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
-**Graduate Research Assistant**  
+- **Graduate Research Assistant**  
 *Soil Chemistry Laboratory, Ben-Gurion University of the Negev, Israel*  
 - Contributed to interdisciplinary research projects focused on the effects of **different water qualities** (desalinated water, treated wastewater, and blends) on **soil hydraulic characteristics** under Mediterranean climate conditions  
 - Conducted laboratory and column experiments involving **water retention**, **infiltration**, and **solute transport** in soils  
