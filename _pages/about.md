@@ -7,7 +7,8 @@ redirect_from:
 ---
 
 
-  
+## Shalom, welcome to my homepage
+
 I am a researcher in **environmental physical chemistry**, currently in the final year of my PhD at the **Soil Chemistry Laboratory**, **Ben-Gurion University of the Negev**, under the supervision of **Dr. Gilboa Arye**. My doctoral research focuses on the **physico-chemical interactions between biosurfactants and water-repellent porous media**, employing both experimental approaches and transport modeling. The broader aim of my work is to advance the understanding of **wettability and water dynamics in peat-based horticultural substrates**, contributing to sustainable water management practices in controlled growing systems. I hold a Master’s degree in **Environmental Soil Chemistry** (awarded *CUM LAUDE*) from Ben-Gurion University, where I investigated the **surface-active behavior of plant xylem sap at the liquid–air interface**. My academic foundation lies in **agricultural sciences**, with a Bachelor's degree from Rai Technology University, India. During my undergraduate studies, I participated in a summer research internship at Ben-Gurion University, which inspired my long-term academic and scientific pursuits in soil systems, plant-environment interactions, and sustainable agronomy.
 
 Throughout my academic journey, I have engaged in diverse research topics including:
