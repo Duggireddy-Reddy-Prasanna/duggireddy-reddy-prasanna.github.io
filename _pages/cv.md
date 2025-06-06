@@ -43,15 +43,16 @@ redirect_from:
 - Delivered market reports, data visualizations, and strategic recommendations to international stakeholders  
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
----
-## Skills
-
-- **Analytical Instruments:** AAS, HPLC, UV-Vis, TOC/N, Ion Chromatography, DUETTA, Zetasizer  
-- **Surface Chemistry:** Optical tensiometry (OCA/DCAT), Drop Shape Analyzer  
-- **Soil Hydrology:** HYPROP, WP4C, KSAT, TDR, PARIO  
-- **Software:** Python, R, JMP, SigmaPlot, HYDRUS (1D/2D/3D), STANMOD, ArcGIS  
-- **Certifications:** ESG frameworks, Machine Learning, Solute Transport Modeling  
-
+## Programming and Software
+- **Programming Languages:** Python, R  
+- **Data Visualization Tools:** Matplotlib, ggplot2, JMP, SigmaPlot  
+- **Geospatial & Image Processing:** ArcGIS Pro  
+- **Modeling & Specialized Tools:** HYDRUS (1D/2D/3D), RETC, STANMOD  
+- **Certifications:**  
+  - Machine Learning  
+  - R for Biostatistics  
+  - Python for Data Analysis
+  - ESG Framework for the IT Industry  
 ---
 
 ## Publications
