@@ -25,7 +25,7 @@ redirect_from:
   *Summer Internship:* Pioneering Sustainability in Arid Lands- Ben-Gurion University of the Negev, Israel
 
 ---
-## Industrial Experience
+## Work Experience
 
 - **Field Intern – Soil Health and Rural Development (MGNREGA Programme)**  
 - *Undergraduate field training, Karnataka, India*  
