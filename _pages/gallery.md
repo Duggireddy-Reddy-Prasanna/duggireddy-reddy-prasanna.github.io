@@ -9,7 +9,7 @@ Welcome to my research and fieldwork gallery! Below are selected visuals from pr
 
 ### 🔬 Experimental Layouts (ArcGIS Pro)
 
-![Layout 1](/images/Layout1.png)  
+![Layout 1](/images/Reddy Prasanna.jpeg)  
 *Vegetation and elevation overlay using stream buffering and land cover zones.*
 
 ### 🧪 Field and Lab Work
