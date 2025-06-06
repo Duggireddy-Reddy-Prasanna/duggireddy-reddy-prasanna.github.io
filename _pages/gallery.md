@@ -7,7 +7,8 @@ author_profile: true
 
 ## 🔍 Experimental Layouts (ArcGIS Pro)
 
-![Layout 1](/images/Layout1.png)
+![Layout](/duggireddy.github.io/images/Layout1.png)
+
 
 *Vegetation and elevation overlay using stream buffering and land cover zones.*
 
