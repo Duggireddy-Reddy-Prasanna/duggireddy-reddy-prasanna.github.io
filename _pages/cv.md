@@ -44,6 +44,7 @@ redirect_from:
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
 ## Programming and Software
+
 - **Programming Languages:** Python, R  
 - **Data Visualization Tools:** Matplotlib, ggplot2, JMP, SigmaPlot  
 - **Geospatial & Image Processing:** ArcGIS Pro  
@@ -52,22 +53,7 @@ redirect_from:
   - ESG Framework for the IT Industry  
   - Machine Learning  
   - R for Biostatistics  
-  - Python for Data Analysis  
----
-
-## Publications
-
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
----
-
-## Talks
-
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+  - Python for Data Analysis
 
 ---
 
@@ -79,10 +65,3 @@ redirect_from:
 
 ---
 
-## Service & Awards
-
-- **Albert Katz Fellowship** – M.Sc. Excellence
-- **Kreitzman Fellowship** – Doctoral research
-- **Best Oral Presentation** – Rural development program
-- **Gold Medal** – Undergraduate performance
-- Contributor to open-source environmental datasets and analysis pipelines
