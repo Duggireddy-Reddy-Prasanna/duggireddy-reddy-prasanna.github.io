@@ -17,7 +17,7 @@ redirect_from:
 
 - **M.Sc. in Environmental Soil Chemistry**, Ben-Gurion University of the Negev, Israel (2019–2022)  
   *Graduated CUM LAUDE (97.81)*  
-  *Thesis:* Surface activity of citrus xylem sap at the liquid–air interface
+  *Master Thesis:* Surface activity of citrus xylem sap at the liquid–air interface
 
 - **B.Sc. in Agriculture Sciences**, Rai Technology University, India (2015–2019)
   *Graduated Gold medalist (9.1)* 
