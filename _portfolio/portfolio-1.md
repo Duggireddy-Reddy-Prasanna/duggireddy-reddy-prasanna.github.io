@@ -6,7 +6,7 @@ date: 2024-05-10
 image: /images/Layout1.png
 ---
 
-📎 [**Download Full Layout (JPEG)**](/images/Layout.jpeg){:target="_blank"}
+📎 [**Download Full Layout (JPEG)**](/images/Layout.jpg){:target="_blank"}
 
 This project applied spatial analysis techniques in **ArcGIS Pro** to investigate the interaction between vegetation cover, topography, and hydrological features. Key tasks included:
 
