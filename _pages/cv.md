@@ -28,15 +28,15 @@ redirect_from:
 
 ## Industrial Experience
 
-**Field Intern – Soil Health and Rural Development (MGNREGA Programme)**  
-*Undergraduate field training, Karnataka, India*  
+- **Field Intern – Soil Health and Rural Development (MGNREGA Programme)**  
+- *Undergraduate field training, Karnataka, India*  
 - Participated in the Ministry of Rural Development’s MGNREGA soil program  
 - Collected and analyzed soil samples from farming plots; prepared and distributed Soil Health Cards to farmers  
 - Engaged in farmer education and outreach, focused on soil fertility improvement and sustainable land use  
 - Conducted a regional market assessment for sericulture (silkworm production) to support rural economic planning  
 
-**Freelance Business Analyst – Agriculture & Sustainability Sectors**  
-*Independent consultant for European clients (Belgium, Germany, Denmark)*  
+- **Freelance Business Analyst – Agriculture & Sustainability Sectors**  
+- *Independent consultant for European clients (Belgium, Germany, Denmark)*  
 - Led strategic market research projects in agriculture, sustainability, and real estate  
 - Conducted primary and secondary data collection on the olive oil market in the Middle East  
 - Explored synergies between real estate development and urban farming models in Israel  
