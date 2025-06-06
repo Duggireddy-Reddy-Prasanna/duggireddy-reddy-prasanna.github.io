@@ -11,17 +11,18 @@ redirect_from:
 
 ## Education
 
-- **Ph.D. in Environmental Physical Chemistry**, Ben-Gurion University of the Negev, Israel (Expected 2025)  
-  *Research focus:* Surfactant–porous media interactions in water-repellent growing substrates  
+- **Ph.D. in Environmental Physical Chemistry**, Ben-Gurion University of the Negev, Israel (Expected October 2025)  
+  *Ph.D thesis:* Role of surfactants on the wettability,water retention and transport of soil less growing media  
   *Supervisor:* Dr. Gilboa Arye
 
 - **M.Sc. in Environmental Soil Chemistry**, Ben-Gurion University of the Negev, Israel (2019–2022)  
-  *Graduated CUM LAUDE*  
-  *Thesis:* Surface activity of xylem sap at the liquid–air interface
+  *Graduated CUM LAUDE (97.81)*  
+  *Thesis:* Surface activity of citrus xylem sap at the liquid–air interface
 
-- **B.Sc. in Agriculture Sciences**, Rai Technology University, India (2015–2019)  
-  *Project:* Mushroom cultivation using agricultural waste  
-  *Summer Internship:* Ben-Gurion University of the Negev
+- **B.Sc. in Agriculture Sciences**, Rai Technology University, India (2015–2019)
+  *Graduated Gold medalist (9.1)* 
+  *Project:* A Comparative Study of Agro-Waste Substrates for Economical and Efficient Oyster Mushroom Cultivation
+  *Summer Internship:* Pioneering Sustainability in Arid Lands- Ben-Gurion University of the Negev, Israel
 
 ---
 
