@@ -25,7 +25,6 @@ redirect_from:
   *Summer Internship:* Pioneering Sustainability in Arid Lands- Ben-Gurion University of the Negev, Israel
 
 ---
-
 ## Industrial Experience
 
 - **Field Intern – Soil Health and Rural Development (MGNREGA Programme)**  
@@ -45,7 +44,6 @@ redirect_from:
 - Synthesized multi-sector insights to evaluate feasibility, risk, and potential impact of emerging agritech solutions
 
 ---
-
 ## Skills
 
 - **Analytical Instruments:** AAS, HPLC, UV-Vis, TOC/N, Ion Chromatography, DUETTA, Zetasizer  
