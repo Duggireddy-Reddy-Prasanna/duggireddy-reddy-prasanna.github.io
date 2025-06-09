@@ -13,9 +13,9 @@ title                    : "Duggireddy's Homepage"
 title_separator          : "-"
 name                     : &name "Duggireddy Reddy Prasanna"
 description              : &description "personal description"
-url                      : "https://duggireddy-reddy-prasanna.github.io/duggireddy.github.io/"
+url                      : "https://duggireddy-reddy-prasanna.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "duggireddy.github.io"
+repository               : "duggireddy-reddy-prasanna.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -42,7 +42,7 @@ author:
   
   # Social media
 
-  github           : "https://duggireddy-reddy-prasanna.github.io/duggireddy.github.io/"
+  github           : "https://duggireddy-reddy-prasanna.github.io"
 
 
 # Publication Category - The following the list of publication categories and their headings
