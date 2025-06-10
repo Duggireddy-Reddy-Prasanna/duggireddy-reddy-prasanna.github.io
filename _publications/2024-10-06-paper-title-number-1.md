@@ -8,5 +8,3 @@ authors: "Reddy Prasanna Duggireddy"
 paperurl: "https://github.com/Duggireddy-Reddy-Prasanna/duggireddy.github.io/blob/master/files/9780443187797_WEB.pdf"
 layout: publication
 ---
-
-
