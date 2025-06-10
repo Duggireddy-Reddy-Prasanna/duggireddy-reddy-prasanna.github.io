@@ -253,9 +253,7 @@ defaults:
       layout: single
       author_profile: true
       custom_css: "/assets/css/custom.css"
-      .page__content {
-  text-align: justify;
-}
+
 # ✅ ADD THIS LINE
 
 
