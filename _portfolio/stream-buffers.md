@@ -18,7 +18,8 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 
 ---
 
-<img src="/images/Layout1.png" alt="Main Layout" width="100"/>
+[![Main layout](/images/Layout1.png){: .img-700 }](#){: .no-link }
+
 
 
 
