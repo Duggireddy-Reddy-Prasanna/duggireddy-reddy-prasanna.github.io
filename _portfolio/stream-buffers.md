@@ -18,7 +18,7 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 
 ---
 
-![Main Layout](/images/Layout1_1200.jpg){: .align-center style="max-width:700px;" }
+<img src="/images/Layout1.png" alt="Main Layout" width="100"/>
 
 
 
