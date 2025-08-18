@@ -18,7 +18,7 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 
 ---
 
-<img src="/images/Layout1.png" alt="Main Layout" width="300"/>
+<img src="/images/Layout1.png" alt="Main Layout" width="100"/>
 
 ---
 title: "Spatial Analysis of Urban Heat and Vegetation Patterns in Beer Sheva"
