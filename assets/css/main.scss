@@ -44,3 +44,36 @@
   text-align: justify;
   text-justify: inter-word;
 }
+/* ---------- Images inside page/post content ---------- */
+.page__content img {
+  display: block;
+  margin: 1rem auto;        /* center */
+  max-width: 760px;         /* global cap; tweak as you like */
+  width: 100%;              /* responsive downscaling */
+  height: auto;             /* keep aspect ratio */
+}
+
+/* Optional: figure + caption styling (if you use <figure><figcaption>) */
+.page__content figure {
+  margin: 1.25rem auto;
+  max-width: 760px;
+}
+.page__content figure img {
+  width: 100%;
+  height: auto;
+}
+.page__content figcaption {
+  text-align: center;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 0.4rem;
+}
+
+/* Utility classes for per-image overrides in Markdown */
+.page__content img.img-600 { max-width: 600px; }
+.page__content img.img-700 { max-width: 700px; }
+.page__content img.img-900 { max-width: 900px; }
+.page__content img.full-bleed { max-width: none; width: 100%; }
+
+/* (Optional) disable click-through to raw image when you add class .no-link to <a> */
+.page__content a.no-link { pointer-events: none; cursor: default; }
