@@ -7,7 +7,6 @@ image: /images/Layout1.png
 ---
 
 This project applied spatial analysis techniques in **ArcGIS Pro** to investigate the interaction between vegetation cover, topography, and hydrological features. Key tasks included:
-
 - Generating a **vegetation cover classification map**
 - Creating **stream buffer zones** at fixed distances
 - Performing **intersect analysis** to overlay vegetation and elevation data
