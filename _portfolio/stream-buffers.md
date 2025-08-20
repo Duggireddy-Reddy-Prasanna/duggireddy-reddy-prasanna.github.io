@@ -22,7 +22,7 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 **Tools used:** *Buffer, Intersect, Clip, Field Calculator, Symmetrical Difference, Spatial Join, Zonal Statistics, Layout Designer.*
 
 <figure align="center">
-  <img src="/images/layout1.png" alt="Vegetation and Elevation Analysis layout" />
+  <img src="/images/Layout1.png" alt="Vegetation and Elevation Analysis layout" />
   <figcaption>Composite layout showing vegetation classification, stream buffers, and elevation overlay.</figcaption>
 </figure>
 
