@@ -17,8 +17,8 @@ This project applied spatial analysis techniques in **ArcGIS Pro** to investigat
 **Tools used:** *Buffer, Intersect, Clip, Field Calculator, Symmetrical Difference, Spatial Join, Zonal Statistics, Layout Designer.*
 
 ---
+![Main layout](/images/Layout1.png){:.img-600}
 
-![Main layout](/images/Layout1.png){: .align-center width="700" }
 
 
 
