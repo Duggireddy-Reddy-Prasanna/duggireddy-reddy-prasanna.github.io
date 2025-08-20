@@ -5,7 +5,18 @@ permalink: /portfolio/
 collection: portfolio
 author_profile: true
 ---
-
+<h1>Portfolio</h1>
+<ul class="archive__items">
+  {% for item in site.portfolio %}
+    <li class="archive__item">
+      <h2><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h2>
+      {% if item.image %}
+        <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" style="max-width:300px;">
+      {% endif %}
+      {% if item.excerpt %}<p>{{ item.excerpt }}</p>{% endif %}
+    </li>
+  {% endfor %}
+</ul>
 {% include base_path %}
 
 
