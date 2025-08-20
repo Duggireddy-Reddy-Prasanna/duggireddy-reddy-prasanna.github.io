@@ -46,38 +46,30 @@ Key steps included:
 ##### Figures
 
 <figure align="center">
-  <img src="/images/figure1.png" alt="UHI Figure 1" />
-  <figcaption>Figure 1: Land cover classification map of the study area.</figcaption>
+  <img src="{{ '/images/figure1.PNG' | relative_url }}" alt="UHI Figure 1">
+  <figcaption>Figure 1: Land cover classification map.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure2.png" alt="UHI Figure 2" />
-  <figcaption>Figure 2: Surface temperature distribution showing heat island hotspots.</figcaption>
+  <img src="{{ '/images/figure2.PNG' | relative_url }}" alt="UHI Figure 2">
+  <figcaption>Figure 2: Surface temperature distribution.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure3.png" alt="UHI Figure 3" />
-  <figcaption>Figure 3: Buffer zones around major heat sources.</figcaption>
+  <img src="{{ '/images/figure3.PNG' | relative_url }}" alt="UHI Figure 3">
+  <figcaption>Figure 3: Buffers around heat sources.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure4.png" alt="UHI Figure 4" />
-  <figcaption>Figure 4: Elevation overlay with temperature gradients.</figcaption>
+  <img src="{{ '/images/figure4.PNG' | relative_url }}" alt="UHI Figure 4">
+  <figcaption>Figure 4: Elevation vs. temperature.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure5.png" alt="UHI Figure 5" />
-  <figcaption>Figure 5: Vegetation index (NDVI) map highlighting cooling areas.</figcaption>
+  <img src="{{ '/images/figure5.PNG' | relative_url }}" alt="UHI Figure 5">
+  <figcaption>Figure 5: NDVI cooling areas.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure6.png" alt="UHI Figure 6" />
-  <figcaption>Figure 6: Composite map integrating land cover, vegetation, and temperature.</figcaption>
+  <img src="{{ '/images/figure6.PNG' | relative_url }}" alt="UHI Figure 6">
+  <figcaption>Figure 6: Composite map.</figcaption>
 </figure>
-
 <figure align="center">
-  <img src="/images/figure7.png" alt="UHI Figure 7" />
-  <figcaption>Figure 7: Statistical analysis of UHI intensity across land cover types.</figcaption>
+  <img src="{{ '/images/figure7.PNG' | relative_url }}" alt="UHI Figure 7">
+  <figcaption>Figure 7: UHI intensity statistics.</figcaption>
 </figure>
-
-[Back to top](#my-projects)
