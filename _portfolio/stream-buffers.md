@@ -41,37 +41,37 @@ This study analyzed spatial temperature variations in urban areas to identify he
 - Producing detailed maps and charts for urban planners
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 1.png" alt="Urban Heat Island Figure 1" class="img-100" />
+  <img src="/images/urban-heat-island/figure1.png" alt="Urban Heat Island Figure 1" class="img-100" />
   <figcaption>Figure 1: Land cover classification map of the study area.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 2.png" alt="Urban Heat Island Figure 2" class="img-100" />
+  <img src="/images/urban-heat-island/figure2.png" alt="Urban Heat Island Figure 2" class="img-100" />
   <figcaption>Figure 2: Surface temperature distribution showing heat island hotspots.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 3.png" alt="Urban Heat Island Figure 3" class="img-100" />
+  <img src="/images/urban-heat-island/figure3.png" alt="Urban Heat Island Figure 3" class="img-100" />
   <figcaption>Figure 3: Buffer zones around major heat sources.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 4.png" alt="Urban Heat Island Figure 4" class="img-100" />
+  <img src="/images/urban-heat-island/figure4.png" alt="Urban Heat Island Figure 4" class="img-100" />
   <figcaption>Figure 4: Elevation overlay with temperature gradients.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 5.png" alt="Urban Heat Island Figure 5" class="img-100" />
+  <img src="/images/urban-heat-island/figure5.png" alt="Urban Heat Island Figure 5" class="img-100" />
   <figcaption>Figure 5: Vegetation index map highlighting cooling areas.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 6.png" alt="Urban Heat Island Figure 6" class="img-700" />
+  <img src="/images/urban-heat-island/figure6.png" alt="Urban Heat Island Figure 6" class="img-700" />
   <figcaption>Figure 6: Composite map of land cover and temperature.</figcaption>
 </figure>
 
 <figure align="center">
-  <img src="/images/urban-heat-island/figure 7.png" alt="Urban Heat Island Figure 7" class="img-700" />
+  <img src="/images/urban-heat-island/figure7.png" alt="Urban Heat Island Figure 7" class="img-700" />
   <figcaption>Figure 7: Statistical analysis chart of urban heat island intensity.</figcaption>
 </figure>
 
