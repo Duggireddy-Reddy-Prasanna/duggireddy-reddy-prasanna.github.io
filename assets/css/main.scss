@@ -44,19 +44,19 @@
   text-align: justify;
   text-justify: inter-word;
 }
+
 /* ---------- Images inside page/post content ---------- */
 .page__content img {
   display: block;
   margin: 1rem auto;        /* center */
-  max-width: 760px;         /* global cap; tweak as you like */
-  width: 100%;              /* responsive downscaling */
+  max-width: 100%;          /* responsive by default */
   height: auto;             /* keep aspect ratio */
 }
 
 /* Optional: figure + caption styling (if you use <figure><figcaption>) */
 .page__content figure {
   margin: 1.25rem auto;
-  max-width: 760px;
+  max-width: 100%;          /* allow figures to be flexible */
 }
 .page__content figure img {
   width: 100%;
@@ -70,10 +70,12 @@
 }
 
 /* Utility classes for per-image overrides in Markdown */
-.page__content img.img-100 { max-width: 100px; }
-.page__content img.img-700 { max-width: 700px; }
-.page__content img.img-900 { max-width: 900px; }
-.page__content img.full-bleed { max-width: none; width: 100%; }
+.page__content img.img-100 { max-width: 100px !important; }
+.page__content img.img-500 { max-width: 500px !important; }
+.page__content img.img-700 { max-width: 700px !important; }
+.page__content img.img-900 { max-width: 900px !important; }
+.page__content img.full-bleed { max-width: none !important; width: 100% !important; }
 
 /* (Optional) disable click-through to raw image when you add class .no-link to <a> */
 .page__content a.no-link { pointer-events: none; cursor: default; }
+
