@@ -46,7 +46,7 @@ Key steps included:
 ##### Figures
 
 <figure align="center">
-  <img src="{{ '/images/figure1.PNG' | relative_url }}" alt="UHI Figure 1">
+  <img src="{{ '/images/figure1.png' | relative_url }}" alt="UHI Figure 1">
   <figcaption>Figure 1: Land cover classification map.</figcaption>
 </figure>
 <figure align="center">
